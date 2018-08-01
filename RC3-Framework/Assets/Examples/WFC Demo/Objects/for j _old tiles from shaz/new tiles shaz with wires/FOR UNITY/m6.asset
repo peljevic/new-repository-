@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e6927d02f5794847a99048cbe7cbba8, type: 3}
+  m_Name: m6
+  m_EditorClassIdentifier: 
+  _index: 0
+  _mesh: {fileID: 4300000, guid: 6466597b792346148bcf372440b6441b, type: 3}
+  _material1: {fileID: 2100000, guid: fbe0bc8b800507943849e3e30205feab, type: 2}
+  _material2: {fileID: 2100000, guid: 8b10e3f2c349dc74ea041c9683cca4ad, type: 2}
+  _labels:
+  - a
+  - c
+  - 0
+  - a
+  - 0
+  - b
+  - d
+  - b
+  - 0
+  - 0
+  - b
+  - 0
+  - 0
+  - 0
+  _drag: 0
+  _weight: 0
+  _area: 0

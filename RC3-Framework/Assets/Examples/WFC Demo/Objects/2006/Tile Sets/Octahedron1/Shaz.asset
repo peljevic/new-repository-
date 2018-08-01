@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e218efff332d93b408a5b62fc3fd31e0, type: 3}
+  m_Name: Shaz
+  m_EditorClassIdentifier: 
+  _tiles:
+  - {fileID: 11400000, guid: 8d4efdcacb8e837459deaf1cb21dd1e7, type: 2}
+  - {fileID: 11400000, guid: 3ec256167c70dc647a26872657906b1d, type: 2}
+  - {fileID: 11400000, guid: e91500849633ea2458cf08477b02ab58, type: 2}
+  - {fileID: 11400000, guid: d6cbae64edc72884a852dc5daa5df5c5, type: 2}
+  - {fileID: 11400000, guid: f7e76f0ae7d6a4445a455495d76b0a6c, type: 2}
+  - {fileID: 11400000, guid: a4734f3b60534af47a0c02d47c8b8201, type: 2}
+  - {fileID: 11400000, guid: 42458fe09cb033b4b969e159884e4ed8, type: 2}
+  - {fileID: 11400000, guid: dbc2255a3aa5c2041ae341beeaae677f, type: 2}
+  - {fileID: 11400000, guid: de871bb6f5e63014cbbbbd84ce80937e, type: 2}
+  - {fileID: 11400000, guid: 6e8ba148b52eec3418fd7d8abc189c4b, type: 2}
+  - {fileID: 11400000, guid: 01238910e6e3df540b5f45796f9b0f02, type: 2}
